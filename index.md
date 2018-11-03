@@ -1,4 +1,4 @@
-## Bushwick Neighborhood Summary
+### Bushwick Neighborhood Summary
 
 
 Zip Codes- 11206, 11207, 11221, and 11237
@@ -17,3 +17,6 @@ Ethnicity- 65% Hispanic, 20% Black, 9% White, 5% Asian, 1% Other
 
 ### Bushwick Outline
 ![alt text](bushwickoutline.png)
+
+### Turnstiles
+![alt text](turnstiles.png)
