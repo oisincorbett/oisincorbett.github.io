@@ -14,6 +14,9 @@ Ethnicity- 65% Hispanic, 20% Black, 9% White, 5% Asian, 1% Other
 
 30% of people below the poverty line with 17% unemployed
 
+Distance from Federal Hall- About 6.5 miles
+Distance from Empire State Building- About 7 miles
+
 
 ### Bushwick Outline
 ![alt text](bushwickoutline.png)
